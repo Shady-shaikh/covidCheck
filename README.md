@@ -31,6 +31,7 @@ this is api based webiste.
 ### Executing program
 
 * Start your server (e.g., XAMPP/WAMP).
+* do clone the repo in www of wamp or htdocs of xampp
 * Create a database named `covidcheck`.
 * Configure your database credentials in `dbcon.php`.
 * Import the database file `covidcheck.sql` into phpMyAdmin.
