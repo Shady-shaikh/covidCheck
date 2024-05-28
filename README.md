@@ -5,6 +5,7 @@ A dynamic website to fetch covid related details world wide !!!
 ## Description
 
 covidIndia is a dynamic and responsive  website that provides information on various region of world, including state level data , daily data, total counts, and much more.
+this is api based webiste.
 
 ## Getting Started
 
@@ -19,7 +20,7 @@ covidIndia is a dynamic and responsive  website that provides information on var
 
 ### Site Details
 
-* Covid Information National and International Level
+* Covid Information National and International Level (Api Based)
 * ![Main Page](https://github.com/Shady-shaikh/covidCheck/blob/main/git/Screenshot%202024-05-28%20155242.png)
 * Prevntion Details ![Prevntion Details](https://github.com/Shady-shaikh/covidCheck/blob/main/git/Screenshot%202024-05-28%20155255.png)
 * Contact Form ![Contact Form](https://github.com/Shady-shaikh/covidCheck/blob/main/git/Screenshot%202024-05-28%20155307.png)
