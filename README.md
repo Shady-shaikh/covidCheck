@@ -20,7 +20,8 @@ covidIndia is a dynamic and responsive  website that provides information on var
 ### Site Details
 
 * Covid Information National and International Level
-* ![Alt Text](https://github.com/Shady-shaikh/covidCheck/blob/main/git/Screenshot%202024-05-28%20155242.png)
+* ![Main Page](https://github.com/Shady-shaikh/covidCheck/blob/main/git/Screenshot%202024-05-28%20155242.png)
+* Prevntion Details ![Prevntion Details](https://github.com/Shady-shaikh/covidCheck/blob/main/git/Screenshot%202024-05-28%20155255.png)
 
 
 ### Executing program
