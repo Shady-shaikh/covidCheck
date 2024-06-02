@@ -20,17 +20,23 @@ this is api based webiste.
 
 ### Site Details
 
-* Covid Information National and International Level (Api Based)
-* Main Page
-  ![Main Page](https://github.com/Shady-shaikh/covidCheck/blob/main/git/Screenshot%202024-05-28%20155242.png)
-* Prevntion Details
-  ![Prevntion Details](https://github.com/Shady-shaikh/covidCheck/blob/main/git/Screenshot%202024-05-28%20155255.png)
-* Contact Form
-  ![Contact Form](https://github.com/Shady-shaikh/covidCheck/blob/main/git/Screenshot%202024-05-28%20155307.png)
-* State Wise Data
-  ![state wise](https://github.com/Shady-shaikh/covidCheck/blob/main/git/Screenshot%202024-05-28%20155321.png)
-* Daily Updates in India
-   ![india](https://github.com/Shady-shaikh/covidCheck/blob/main/git/Screenshot%202024-05-28%20155334.png)
+# Covid Information National and International Level (Api Based)
+
+## Main Page
+![Main Page](https://github.com/Shady-shaikh/covidCheck/blob/main/git/Screenshot%202024-05-28%20155242.png)
+
+## Prevention Details
+![Prevention Details](https://github.com/Shady-shaikh/covidCheck/blob/main/git/Screenshot%202024-05-28%20155255.png)
+
+## Contact Form
+![Contact Form](https://github.com/Shady-shaikh/covidCheck/blob/main/git/Screenshot%202024-05-28%20155307.png)
+
+## State Wise Data
+![State Wise Data](https://github.com/Shady-shaikh/covidCheck/blob/main/git/Screenshot%202024-05-28%20155321.png)
+
+## Daily Updates in India
+![Daily Updates in India](https://github.com/Shady-shaikh/covidCheck/blob/main/git/Screenshot%202024-05-28%20155334.png)
+
 
 
 ### Executing program
